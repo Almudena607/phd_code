@@ -10,9 +10,9 @@ CHAPTER 2: DYNAMIC NEURAL RESOURCES FOR ROBUST AND RAPID OBJECT RECOGNITION
 
 CHAPTER 3: THE NEURAL PROCESSES OF ILLUSORY OCCLUSION IN OBJECT RECOGNITION
 + eeg/data/
-+   functions.py
-+   steps.ipynb
-+   statistics.R
+++   functions.py
+++   steps.ipynb
+++   statistics.R
 + online/
 +   experiment 1/data/
 +     analysis_cat.ipynb
